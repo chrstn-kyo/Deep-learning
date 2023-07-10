@@ -1,2 +1,3 @@
 # Deep-learning
-Deep learning for image analysis
+Deep learning for image analysis course projects 
+
